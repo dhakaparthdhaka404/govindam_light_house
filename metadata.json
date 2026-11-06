@@ -1,0 +1,8 @@
+{
+  "name": "Remix Govindam Light House Jaipur",
+  "description": "Luxury lighting and decoration showroom in Jaipur, Rajasthan. Explore crystal chandeliers, modern ceiling lights, LED panels, outdoor gate lights, and designer home decor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
